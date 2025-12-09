@@ -14,6 +14,9 @@ mod day06;
 mod day07;
 #[allow(dead_code)]
 mod day08;
+#[allow(dead_code)]
+mod day09;
+
 
 fn main() {
     println!("Hello, world!");
